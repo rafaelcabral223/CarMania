@@ -189,6 +189,21 @@ header.shadow #search-icon {
     padding-top: 0px;
 }
 
+.brands-logo {
+    text-align: center;
+}
+
+.brands-logo span {
+    font-weight: 500;
+    color: var(--main-color);
+}
+
+.brands-logo p {
+    font-size: 0.938rem;
+    font-weight: 300;
+}
+
+
 .heading {
     text-align: center;
 }
